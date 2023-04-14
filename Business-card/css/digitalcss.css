@@ -1,0 +1,32 @@
+body
+{
+    margin-left: 20px;font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.personal-card
+{
+    width: 400px;
+    margin: 0 auto;
+    background-color: #ddebf8;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    color: #2b2839;
+    text-align: center;
+    border: 1px solid;
+    border-bottom: 10px solid #d8cefe;
+}
+
+
+
+.avatar
+{
+    width: 120px;
+    margin: 10px;
+}
+
+.border-blue
+{
+   border: 3px solid blue;
+}
+
